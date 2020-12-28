@@ -1,0 +1,10 @@
+C:\Users\Mr\Desktop\VB Examples\First Application\First Application\bin\Debug\First Application.exe.config
+C:\Users\Mr\Desktop\VB Examples\First Application\First Application\bin\Debug\First Application.exe
+C:\Users\Mr\Desktop\VB Examples\First Application\First Application\bin\Debug\First Application.pdb
+C:\Users\Mr\Desktop\VB Examples\First Application\First Application\bin\Debug\First Application.xml
+C:\Users\Mr\Desktop\VB Examples\First Application\First Application\obj\Debug\First_Application.Form1.resources
+C:\Users\Mr\Desktop\VB Examples\First Application\First Application\obj\Debug\First_Application.Resources.resources
+C:\Users\Mr\Desktop\VB Examples\First Application\First Application\obj\Debug\First Application.vbproj.GenerateResource.Cache
+C:\Users\Mr\Desktop\VB Examples\First Application\First Application\obj\Debug\First Application.exe
+C:\Users\Mr\Desktop\VB Examples\First Application\First Application\obj\Debug\First Application.xml
+C:\Users\Mr\Desktop\VB Examples\First Application\First Application\obj\Debug\First Application.pdb

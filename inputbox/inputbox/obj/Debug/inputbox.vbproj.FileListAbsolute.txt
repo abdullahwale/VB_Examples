@@ -1,0 +1,10 @@
+C:\Users\Mr\Desktop\VB Examples\inputbox\inputbox\bin\Debug\inputbox.exe.config
+C:\Users\Mr\Desktop\VB Examples\inputbox\inputbox\bin\Debug\inputbox.exe
+C:\Users\Mr\Desktop\VB Examples\inputbox\inputbox\bin\Debug\inputbox.pdb
+C:\Users\Mr\Desktop\VB Examples\inputbox\inputbox\bin\Debug\inputbox.xml
+C:\Users\Mr\Desktop\VB Examples\inputbox\inputbox\obj\Debug\inputbox.Form1.resources
+C:\Users\Mr\Desktop\VB Examples\inputbox\inputbox\obj\Debug\inputbox.Resources.resources
+C:\Users\Mr\Desktop\VB Examples\inputbox\inputbox\obj\Debug\inputbox.vbproj.GenerateResource.Cache
+C:\Users\Mr\Desktop\VB Examples\inputbox\inputbox\obj\Debug\inputbox.exe
+C:\Users\Mr\Desktop\VB Examples\inputbox\inputbox\obj\Debug\inputbox.xml
+C:\Users\Mr\Desktop\VB Examples\inputbox\inputbox\obj\Debug\inputbox.pdb
